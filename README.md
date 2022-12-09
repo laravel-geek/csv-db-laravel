@@ -11,7 +11,6 @@
 - https://github.com/spatie/simple-excel
 - https://www.php.net/manual/en/function.fgetcsv.php
 
-###  Тестовое задание
 
 Постановка задачи: Необходимо выполнить импорт и экспорт большого объёма данных, используя 3 различных варианта (PHP, Laravel Excel, Spatie Simple Excel) и сравнить время их выполнения.
 Подробности реализации:
